@@ -20,8 +20,8 @@ int get_func(char conv, va_list args)
 	};
 	while (spec[index].specifiers)
 	{
-		if(conv == spec[index].specifiers)
-			cmp_func += spec[index].f(args);
+		if (conv == spec[index].specifiers)
+		cmp_func += spec[index].f(args);
 		index++;
 	}
 	if (cmp_func == 0)

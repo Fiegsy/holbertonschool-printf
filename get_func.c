@@ -21,13 +21,13 @@ int get_func(char conv, va_list args)
 	while (spec[index].specifiers)
 	{
 		if(conv == spec[index].specifiers)
-			cmp_func += spec[index].p(args);
+			cmp_func += spec[index].f(args);
 		index++;
 	}
 	if (cmp_func == 0)
 	{
-		cmp_func += _putchar('%');
-		cmp_func += _putchar(conv);
+		cmp_func += _myputchar('%');
+		cmp_func += _myputchar(conv);
 	}
 	return (cmp_func);
 }

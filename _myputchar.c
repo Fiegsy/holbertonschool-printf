@@ -1,16 +1,13 @@
 #include <unistd.h>
-#include <stdarg.h>
+
 /**
- * _myputchar - function to print a char
- * @args: argument
+ * _putchar - writes the character c to stdout
+ * @c: The character to print
  *
- * Return: success
+ * Return: On success 1.
+ * On error, -1 is returned, and errno is set appropriately.
  */
-int print_char(va_list args)
+int _putchar(char c)
 {
-	char c = va_arg(args, int);
-
-	_myputchar(c);
-
-	return (1);
+	return (write(1, &c, 1));
 }

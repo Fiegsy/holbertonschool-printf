@@ -15,7 +15,7 @@ int print_num(va_list args)
 	if (num < 0)
 	{
 		cmp += _myputchar('-');
-		num += -1;
+		num *= -1;
 	}
 	if (num < 10)
 		return (cmp += _myputchar(num + '0'));

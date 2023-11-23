@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_string - print string
+ * print_string -  print string
  * @args: arguments
  * Return: cmp_func
  */

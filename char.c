@@ -1,7 +1,7 @@
 #include "main.h"
 #include <unistd.h>
 /**
- * print_char - function to print a char
+ * char - function to print a char
  *
  * @args: argument
  * Return: Success

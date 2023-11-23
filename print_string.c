@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_string.c - print string
+ * print_string - print string
  * @args: arguments
  * Return: cmp_func
  */
@@ -17,7 +17,7 @@ int print_string(va_list args)
 		return (-1);
 
 	for (index = 0; str[index] != '\0'; index++)
-		cmp_func += _putchar(str[index]);
+		cmp_func += _myputchar(str[index]);
 
 	return (cmp_func);
 }

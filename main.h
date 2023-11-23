@@ -5,16 +5,16 @@
 #include <stdlib.h>
 
 /**
- * struct modifiers - Structure of the format
+ * struct specifier - Structure of the format
  * @modifiers: Structure of the format
- * @p: the procedure associated
+ * @f: the procedure associated
  *
  */
 
-typedef struct modifiers
+typedef struct specifier
 {
-	char modifiers;
-	int (*p)(va_list);
+	char specifier;
+	int (*f)(va_list);
 } spec_t;
 
 int _printf(const char *format, ...);

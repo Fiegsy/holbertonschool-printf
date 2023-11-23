@@ -14,6 +14,8 @@ int get_func(char conv, va_list args)
 		{'%', print_mod},
 		{'s', print_string},
 		{'c', print_char},
+		{'d', print_num},
+		{'i', print_num},
 		{0, NULL}
 	};
 	while (spec[index].specifiers)

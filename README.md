@@ -99,16 +99,7 @@ Print String  :
 
 Print Percent : 
 
-
-
-
-
-
-
-
-
-
-
+//www.plantuml.com/plantuml/png/7Sqz3i8m44JXVayn3GgKj74JYHjmWMY53OdadsWz2-Bso7IlUj_IgKOlMUHVCj-JHgYzlAHAFAqLl7NDUoVEjH7UKxm4cM-QCzRoFPoFJGsVdHkcqnJ6WcuLro2TxH1PKes3-040
 
 
 

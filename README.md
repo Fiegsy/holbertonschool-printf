@@ -107,13 +107,7 @@ Print Percent :
 Print Putchar : 
 
 
-
-
-
-
-
-
-
+//www.plantuml.com/plantuml/png/SoWkIImgAStDuU82ixYiWb8JKnIICnAB4fDBKeiKr9FLhRcid1DpSXJAYp9BKZKCTHJKadKK33MjGMfBIelo50ojWPhp2xYu75BpKa1c0G00
 
 
 

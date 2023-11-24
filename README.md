@@ -80,6 +80,8 @@ FlowChart
 
 Print char : 
 
+//www.plantuml.com/plantuml/png/SoWkIImgAStDuG8pkAmyyp9BCXDpCgjI5PAjkQo2KXDJ51ABqajpK_DA5DAAydCLoXBZSpABIu2IpeavEGhnkPK5fIN96Ob52kMP9HbGNIMbHNaAXjP0K_CBk1nIyrA0LW00
+
 
 
 
@@ -88,6 +90,12 @@ Print char :
 
 
 Print String  : 
+
+
+
+
+
+
 
 
 Print Percent : 
@@ -107,15 +115,6 @@ Print Percent :
 
 
 Print Putchar : 
-
-
-
-
-
-
-
-
-
 
 
 
@@ -152,4 +151,4 @@ Print Decimal :
 
 Print get_func : 
 
-//www.plantuml.com/plantuml/png/SoWkIImgAStDuG8pkAmyyp9BCXDpCgjI5PAjkQo2KXDJ51ABqajpK_DA5DAAydCLoXBZSpABIu2IpeavEGhnkPK5fIN96Ob52kMP9HbGNIMbHNaAXjP0K_CBk1nIyrA0LW00
+

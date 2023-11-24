@@ -121,15 +121,9 @@ Print Printf :
 
 
 
-
-
-
 Print Decimal : 
 
-
-
-
-
+//www.plantuml.com/plantuml/png/PP91Jm8n48Nl_HNlOe04ennbbN3mui74I3nuCiDsW4cwPTFEOl3NssuNiWctffttpRmtNKUbe5tZZEbFPldcHOMS_35E58IsZYCirzAGcwDksZbyryn1tiBANhGooqyc2mhxhc6ls8LZaxG_JgA2OYwlZEmmJGSyut46FR37z9lZp03BZo19DRcVzCokjQHSHEojx4RInLMx4RztZDSym0YIooY2K1yeKAqS4iH5nlIzSohjHL8QZwmE1hDuKUMt3MknTtK0_1x49LIvNk4fGrBfW3vV8TjpcdG8w2IM2wXSPqworQD6o46vUi6YK8kXOlpXGfxXBY5k7FRrNtrkenbAyvJJRUCIRDwRTi7dfLOcwh4rPfrUyc_u1m00
 
 
 

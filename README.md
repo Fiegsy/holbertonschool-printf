@@ -20,7 +20,7 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -Wno-format *.c
 
 *Requirements : 
 
-->Code Foundations
+-> Code Foundations
 
 Editors: Allowed vi, vim, or emacs for your coding journey.
 Compilation: Ensure compatibility with Ubuntu 20.04 LTS using gcc and flags: -Wall -Werror -Wextra -pedantic -std=gnu89.
@@ -43,7 +43,7 @@ Main Files: Use provided main.c files for testing but avoid including them in yo
 
 
 
-Examples of Using the _printf Function :
+-> Examples of Using the _printf Function :
 
 #include "custom_print.h"
 

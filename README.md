@@ -1,15 +1,15 @@
 THE PRINTF FUNCTION PROJECT
 
 
-*Project Title
+* Project Title
 
 This project involves creating a custom version of the printf function in the C language, named _printf. The _printf function allows formatted output to be displayed on the console (stdout). It analyzes the provided format string and displays corresponding values.
 
-*Overview
+* Overview
 
 The _printf() function is a powerhouse for generating formatted output. It writes to stdout, the standard output stream, based on a format string that guides the conversion of subsequent arguments.
 
-*Compilation Command : 
+* Compilation Command : 
 
 ->To compile the project, your code will be compiled this way :
 
@@ -18,7 +18,7 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -Wno-format *.c
 
 
 
-*Requirements : 
+* REQUIREMENTS : 
 
 -> Code Foundations
 
@@ -27,13 +27,13 @@ Compilation: Ensure compatibility with Ubuntu 20.04 LTS using gcc and flags: -Wa
 Style Guide: Adhere to the Betty style for clean and consistent code.
 Global Variables: Omit global variables for a more robust foundation.
 
-*Structure and Organization
+* Structure and Organization
 
 Function Limit: Keep each file concise with no more than 5 functions.
 Header Inclusion: Feature all function prototypes in main.h and include guards to avoid repetition.
 Side Note: No _putchar function provided for this project.
 
-*Documentation
+* Documentation
 
 Readability: Create a comprehensive README.md as the project's guide.
 Main Files: Use provided main.c files for testing but avoid including them in your final submission.
@@ -71,10 +71,10 @@ int main(void) {
 }
 
 
-*Author : 
+* AUTOR :
 🌟 _printf() by Yassine and Benjamin.🌟
 
-*FLOWCHART : 
+* FLOWCHART : 
 
 Print char : 
 

@@ -1,0 +1,56 @@
+.TH _PRINTF "24 NOV 2023" "_PRINTF"
+.SH NAME
+.B _printf
+\- formatted output conversion
+.SH SYNOPSIS
+.BI "#include \"main.h\""
+.LP
+.BI "int _printf(const char *"format ", ...);"
+.SH DESCRIPTION
+The
+.BR _printf "() function produces formatted output to the standard output stream based on the provided format string and variable arguments.
+.LP
+Format String Directives:
+.PP
+.BR %d ", " %i
+.RS
+\- Signed decimal integer.
+.RE
+.PP
+.BR %c
+.RS
+\- Character.
+.RE
+.PP
+.BR %s
+.RS
+\- String.
+.RE
+.PP
+.BR %%
+.RS
+\- Literal '%'.
+.RE
+.PP
+.B RETURN VALUE
+The
+.B _printf
+() function returns the number of characters printed (excluding the null byte used to end output to strings) on success. On error, a negative value is returned.
+.SH EXAMPLES
+.PP
+.RS 3
+.BI "#include \"main.h\""
+.PP
+.BI "int main() {"
+.PP
+.BI "  _printf(\"Hello %s!\\n\", \"World\");"
+.PP
+.BI "  // Output: Hello World!"
+.PP
+.BI "  return 0;"
+.PP
+.BI "}"
+.RE
+.SH AUTHOR
+Yassine Daoui and Benjamin Parent
+

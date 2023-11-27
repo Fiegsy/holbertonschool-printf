@@ -1,8 +1,8 @@
 #include "main.h"
 
-/** 
+/**
  * print_num - print decimale
- * @arg: arguments
+ * @args: arguments
  * Return: sucess
  */
 int print_num(va_list args)
